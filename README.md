@@ -1,4 +1,4 @@
 # hello-world
-hey git!
+hey, git!
 
 this is the first attempt i am trying to use github!
